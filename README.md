@@ -102,7 +102,7 @@ $ subspace --http-host subspace.example.com
   -version
         display version and exit
 ```
-### Run as a Docker container
+### Run as a Docker container (check port before starting)
 
 #### Install WireGuard on the host
 
